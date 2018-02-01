@@ -1,0 +1,11 @@
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\netcoreapp2.0\Encryption.deps.json
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\netcoreapp2.0\Encryption.runtimeconfig.json
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\netcoreapp2.0\Encryption.runtimeconfig.dev.json
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\netcoreapp2.0\Encryption.dll
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\bin\Debug\netcoreapp2.0\Encryption.pdb
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\netcoreapp2.0\Encryption.csprojResolveAssemblyReference.cache
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\netcoreapp2.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\netcoreapp2.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\netcoreapp2.0\Encryption.AssemblyInfo.cs
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\netcoreapp2.0\Encryption.dll
+C:\Users\SElevenIT\Documents\Visual Studio 2017\Projects\Encryption\Encryption\obj\Debug\netcoreapp2.0\Encryption.pdb
